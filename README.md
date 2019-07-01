@@ -13,6 +13,14 @@ Liu, Yang, Zhaowen Wang, Hailin Jin, and Ian Wassell. "Synthetically supervised 
 * matplotlib
 
 
+--Download pretrained model:
+
+DETECTION: 
+
+
+RECOGNITION:
+
+
 -- Usage:
 DETECTION:
 1. Add the path of `$pixel_link_root$/pylib/src` to your `PYTHONPATH`
