@@ -1,0 +1,1 @@
+/scratch/shared/slow/yangl/code/OCR/detection/pixel_link/data/Chuhan_text.jpg
