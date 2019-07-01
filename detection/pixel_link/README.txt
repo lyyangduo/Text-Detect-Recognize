@@ -5,6 +5,14 @@
 * setproctitle
 * matplotlib
 
+--Download pretrained model:
+
+Download : https://drive.google.com/open?id=1PuLCYVG457UOFzWHz4GuerTzWABZR0b6
+
+DETECTION: unzip pixel_link_vgg_4s.zip into ${pixel_link_root}/model/
+
+RECOGNITION: put 0_480000.pth into $attention_net_root$/
+
 -- Usage:
 1. Add the path of `$pixel_link_root$/pylib/src` to your `PYTHONPATH`
 
