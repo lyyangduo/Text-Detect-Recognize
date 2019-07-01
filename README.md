@@ -11,15 +11,17 @@ Liu, Yang, Zhaowen Wang, Hailin Jin, and Ian Wassell. "Synthetically supervised 
 * opencv2
 * setproctitle
 * matplotlib
+* pylib: https://github.com/dengdan/pylib.git
 
 
 --Download pretrained model:
 
+Download : https://drive.google.com/open?id=1PuLCYVG457UOFzWHz4GuerTzWABZR0b6
 DETECTION: 
-
+unzip pixel_link_vgg_4s.zip into ${pixel_link_root}/model/
 
 RECOGNITION:
-
+put 0_480000.pth into $attention_net_root$/
 
 -- Usage:
 DETECTION:
